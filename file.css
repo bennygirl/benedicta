@@ -11,3 +11,7 @@ section:nth-of-type(2n+1)>ol>li:nth-last-child(2n+3){
     background-color: lightpink;
     padding: 2em;
 }
+
+ol>li{
+    padding: 2em;
+}
